@@ -12,4 +12,4 @@ python app.py
 
 Open http://127.0.0.1:7860
 
-Data: UCI Wine Quality (Cortez et al., 2009). AI tool used: Claude (Anthropic)
+Data: UCI Wine Quality (Cortez et al., 2009).
