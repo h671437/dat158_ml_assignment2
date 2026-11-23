@@ -2,9 +2,9 @@ Wine Quality Predictor
 
 A web app that predicts the quality (0-10) of a Vinho Verde wine from its chemical measurements, using a random forest model.
 
-Demo video: https://youtu.be/6tBsMRz0HM4
-Report: report.pdf
-Notebook: notebooks/wine_quality.ipynb
+- Demo video: https://youtu.be/6tBsMRz0HM4
+- Report: report.pdf
+- Notebook: notebooks/wine_quality.ipynb
 Run the app
 cd app
 pip install -r requirements.txt
